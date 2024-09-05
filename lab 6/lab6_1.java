@@ -101,3 +101,42 @@ class ArtsStudent extends STUDENT{
 
 }
 
+/*
+
+Enter practical marks: 
+25
+Enter elective: 
+ml
+Enter name(ScienceStudent): 
+Shasmeet
+Enter the marks: 
+23
+34
+45
+56
+67
+Enter name(ArtsStudent): 
+bob
+Enter the marks: 
+23
+34
+45
+56
+67
+Shasmeet
+The marks are: 
+23 34 45 56 67 
+THe total is: 
+225
+The average is: 
+45
+25
+bob
+The marks are: 
+23 34 45 56 67 
+THe total is: 
+225
+The average is: 
+45
+Elective chosen is ml
+*/
