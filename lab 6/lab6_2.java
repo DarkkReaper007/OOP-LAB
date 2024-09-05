@@ -103,3 +103,42 @@ class FullTimeEmp extends EMPLOYEE{
         super.display();
     }
 }
+
+/*
+
+java -cp /tmp/cznCyn2ybm/lab6_2
+Enter details for PartTimeEmployee: 
+Enter name:
+Shasmeet
+Enter Eid: 
+12
+Enter Basic: 
+2345
+Enter hours worked: 
+12
+Enter details for FullTimeEmployee: 
+Enter name:
+gefdvffsd
+Enter Eid: 
+1234
+Enter Basic: 
+234566
+Enter Bonus for FullTimeEmployee: 
+1234
+PartTimeEmployee
+Employee Name: Shasmeet
+Employee ID: 12
+Basic Salary:2405
+DA:1250
+Gross_Salary: 3655
+Net_Salary: 2559
+HourlyRate: 5.0
+FullTimeEmployee: 
+Employee Name: gefdvffsd
+Employee ID: 1234
+Basic Salary:234566
+DA:121974
+Gross_Salary: 356540
+Net_Salary: 250812
+
+*/
